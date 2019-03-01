@@ -1,0 +1,7 @@
+neovim
+
+
+powerline
+fonts-powerline
+tmux-powerline
+
