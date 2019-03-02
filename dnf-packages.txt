@@ -1,7 +1,9 @@
+stow
 neovim
-
-
 powerline
 fonts-powerline
+tmux
 tmux-powerline
-
+meson
+python-devel
+python3-devel
