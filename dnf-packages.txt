@@ -1,9 +1,10 @@
 stow
 neovim
 powerline
-fonts-powerline
+powerline-fonts
 tmux
 tmux-powerline
+clang
 meson
 python-devel
 python3-devel

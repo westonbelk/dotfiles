@@ -5,7 +5,7 @@ init: packages neovim-addons powerline-addons
 uninstall: uninstall-configs
 
 packages:
-	sudo dnf install -y $(grep "^[^#]" dnf-packages.txt)
+	sudo dnf install -y `grep "^[^#]" dnf-packages.txt`
 
 
 neovim-addons:
