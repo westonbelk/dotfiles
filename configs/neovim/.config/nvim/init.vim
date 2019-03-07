@@ -10,6 +10,7 @@ Plug 'Valloric/YouCompleteMe', {'do': 'python3 install.py --clang-completer'}
 Plug 'tpope/vim-sleuth'
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
+Plug 'derekwyatt/vim-fswitch'
 call plug#end()
 
 " ===============================
