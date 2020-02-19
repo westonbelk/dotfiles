@@ -10,8 +10,10 @@ Plug 'Valloric/YouCompleteMe', {'do': 'python3 install.py --clang-completer'}
 Plug 'vim-pandoc/vim-pandoc'
 Plug 'vim-pandoc/vim-pandoc-syntax'
 Plug 'derekwyatt/vim-fswitch'
+Plug 'vim-python/python-syntax'
 call plug#end()
 
+let g:python_highlight_all = 1
 
 " ===============================
 " Plugin: vim-airline/vim-airline
