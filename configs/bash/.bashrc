@@ -23,3 +23,4 @@ fi
 
 # aliases
 alias vim=nvim
+alias ssh-doe="ssh -i /home/weston/.ssh/id_rsa_doe_2019"
